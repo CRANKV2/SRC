@@ -1,5 +1,3 @@
-## SRC
-* Simple Resolution Changer Module
 
 
 <p align="center"><a href="https://t.me/AndroidRootModulesCommunity"><img src="https://i.imgur.com/ohbJeBK.png" width="500"></a></p>  
