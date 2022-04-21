@@ -1,2 +1,2 @@
-# SRC
-Simple Resolution Changer Module..
+## SRC
+* Simple Resolution Changer Module
