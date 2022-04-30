@@ -8,7 +8,7 @@
 
  <a href="https://t.me/AndroidRootModulesCommunity"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
-Focused on Changeing Resolution Systemlessly while using 120hz (Termux Menu!) Enjoy!
+Focused on Changing Resolution Systemlessly while using 120hz (Termux Menu!) Enjoy!
 
 ## Requirements:
 
