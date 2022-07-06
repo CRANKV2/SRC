@@ -1,8 +1,8 @@
 
 
-<p align="center"><a href="https://t.me/AndroidRootModulesCommunity"><img src="https://i.imgur.com/ohbJeBK.png" width="500"></a></p>  
+<p align="center"><a href="https://t.me/AndroidRootModulesCommunity"><img src="https://i.imgur.com/K52XcNn.png" width="500"></a></p>  
 
- <h1 align="center"><b> SRC </b></h1> 
+ <h1 align="center"><b> STRP x SRC </b></h1> 
 
  <h4 align="center">Simple Resolution Changer Module.</h4>
 
