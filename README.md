@@ -42,32 +42,17 @@
 --------
 
 ## Change You're Resolution
-
-- 1080x2400
-- 1080x1920
-- 720x1600
-- 480x1067
-- 480x640
-- 480x768
-- 600x800
-- 540x960
-- 720x1280
-- 900x1600
-- 1440x2560
-- 1440x3200
+- All are Described In Menu!
 - Reset Resolution & Density
 
 ------
 
 ## Requirements:
-
-Magisk 22.0+
-
-Latest Busybox
-
-Android 5.0+
+- Magisk 22.0+
+- Latest Busybox
+- Android 5.0+
 
 ## Termux Command:
 
---->su -c SRC #SRCMenu
+- su -c SRCC #SRCMenu
 
