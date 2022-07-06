@@ -25,6 +25,7 @@
 - Activate KCAL / SurfaceFlinger Preset!
 - Reset Preset To Normal!
 - [More Presets Coming!]
+
 -------
 
 ## Refresh Rate Settings
@@ -56,6 +57,7 @@
 - 1440x3200
 - Reset Resolution & Density
 
+------
 
 ## Requirements:
 
