@@ -1,7 +1,9 @@
 id=SRC
-name=⚡️Simple Res. Changer Module...⚡️
+name=𝙎𝙏𝙍𝙋𝙭𝙎𝙍𝘾
 version=2.2
 versionCode=27
-author=CRANKV2 @ GitHub
-description=Its a way to use 120Hz with custom screen Resolution, change your screen resolution systemlessly.
+author=CRANKV2
+description=Focused on Changing Resolution & Refresh Rate Systemlessly!
 support=https://t.me/AndroidRootModulesCommunity
+minMagisk=20300
+updateJson=https://raw.githubusercontent.com/CRANKV2/SRC/main/module.json
